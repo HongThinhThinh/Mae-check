@@ -26,7 +26,7 @@ function tinhDiem() {
     else {
         document.getElementById('rs').textContent = ("Retake rồi :( ")
         document.getElementById('rs').style.backgroundColor = "red"
-        document.getElementById('kq').textContent = ("Điểm của" +thunhap + "  là: " + tv.toFixed(1))
+        document.getElementById('kq').textContent = ("Điểm của " +thunhap + "  là: " + tv.toFixed(1))
 
     }
 
